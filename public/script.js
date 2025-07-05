@@ -33,3 +33,4 @@ async function addTask() {
 }
 
 document.addEventListener('DOMContentLoaded', fetchTasks);
+
